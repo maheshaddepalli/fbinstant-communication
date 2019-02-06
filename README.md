@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Instant Games Server Demo
 
 This demo contains code that demonstrates common scenarios in a backend service that supports an Instant Game client: a game bot and a storage service.
@@ -44,3 +45,4 @@ All done! Your Backend service is configured!
 Follow the instructions in the README.md of the client-side counterpart of this demo:
 
 https://github.com/edgarjcfn/fbinstant-communication
+
